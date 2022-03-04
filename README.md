@@ -1,4 +1,5 @@
 ## IMPORTANT, PLEASE READ.
+
 ComboGen has been Updated to v4.0 all thanks to @Nube46's Donation. It's no longer free to use and has an authentication system as per his request. Anybody willing to purchase a subscription can do so for 5$. Contact me, [@hewhomustn0tbenamed (Telegram)](https://t.me/hewhomustn0tbenamed) to purchase.
 
 In Addition to the Current Mechanism, another algorithm will be implemented soon allowing users to send upto 600 requests per month for free. After which paid subscriptions can be purchased as per their desire. This program will be available soon under a different name. To protect the integrity and assure a long service, limited one time authentication tokens will be handed out that register a device. PM me [@hewhomustn0tbenamed (Telegram)](https://t.me/hewhomustn0tbenamed) to reserve yours.
@@ -46,15 +47,6 @@ In Addition to the Current Mechanism, another algorithm will be implemented soon
 ¹ A Cookie Implementation was Programmed to Allow Users to Complete the reCAPTCHA & Continue Scraping².
 ² But, it was Never Tested Since ***None of the Testers got Blocked Even After 1000s of Links Scraped & Over 8 Hours of Uptime.***
 
-## v1.0 Release Notes
-* Completely Functional.
-* Practically Bugless.
-* You can ***Load Keywords from a File***.
-* You can set the ***"Freshness"*** of Combos.
-* Totally Transparent Processing. You Can See whats Happening in Real-Time.
-* ***Cancellable!*** Think you got Enough Combos? press Ctrl+C to Cancel the Program and you will Still have the Combos.
-* Report any Bugs at [@hewhomustn0tbenamed](https://t.me/hewhomustn0tbenamed) (Telegram)
-* Join the Group at [@VoldemortCommunity](https://t.me/VoldemortCommunity) (Telegram)
 
 ## Changelog
 
@@ -109,38 +101,21 @@ In Addition to the Current Mechanism, another algorithm will be implemented soon
 
 ### v1.0 No Updates Yet.
 
-### Regards,
-### @voldemort1912!🖖🏻
 
 ## HOW TO USE!!
 * Open a Terminal & Run `pkg update && pkg upgrade && pkg install git python -y`
-* Next, Run `git clone https://github.com/VoldemortCommunity/ComboGen`
+* Next, Run `git clone https://github.com/cesar-169/ComboGen`
 * Navigate to the Newly Created ComboGen Directory using `cd ComboGen`
 * To Start the Program Use `python combogen.py`
 * It Will Automatically Install Dependencies & Configure Everything on the First Run. Grant Storage Permissions for Android 7.0 & Higher if Prompted to do So.
 * Follow the Onscreen Instructions
-* Make Sure you move the Keywords File to Internal Storage/VoldemortCommunity/ComboGen/Keywords
-* After Execution, You can Collect the Combo List from Internal Storage/VoldemortCommunity/ComboGen/ComboLists
+* Make Sure you move the Keywords File to Internal Storage/cesar-169/ComboGen/Keywords
+* After Execution, You can Collect the Combo List from Internal Storage/cesar-169/ComboGen/ComboLists
 
-## Donate
 
-- <img src="https://img.shields.io/badge/Donate-BTC-brightgreen.svg?logo=Bitcoin"> : `bc1qc8qkn0tzuzzknuxwmxskdgyynf2cwmnjg9c7cj`
-
-## To-Do
-
-* Suggestions? [@VoldemortCommunity](https://t.me/VoldemortCommunity).
-* Hotel? __Tri*ago__!
-
-### Issues?
-
-* Report Them on GitHub.
-* Contact Support : [Telegram](https://t.me/VoldemortCommunity)
 
 ### Feature Requests & Feedback
 
-* Contact Me : [Telegram](https://t.me/hewhomustn0tbenamed)
-* Mail Me : [Voldemort1912@hackermail.com](mailto:voldemort1912@hackermail.com)
 
-#### Have Questions?
-* Join the Conversation on [Telegram](https://t.me/VoldemortCommunity).
-* ~~DM me @Voldemort1912.~~
+* Mail Me : [pablo.chacon.mx@gmail.com](mailto:pablo.chacon.mx@gmail.com)
+
